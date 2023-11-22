@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Gupta</h1>
+<h3 align="center">"Deciphering Insights, Driving Decisions: A Data Analyst's Perspective"</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumargupta21103085&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumargupta21103085" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtulKumarGupta21103085](https://github.com/AtulKumarGupta21103085)

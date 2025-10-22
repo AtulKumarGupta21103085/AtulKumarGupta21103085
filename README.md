@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtulKumarGupta21103085](https://github.com/AtulKumarGupta21103085)
 
-- 📫 How to reach me **atulkumargupta.bt21cse@pec.edu.in**
+- 📫 How to reach me **aulkumargupta0719@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
